@@ -1,0 +1,5 @@
+weight_lbs=input('weight_lbs ')
+kilogram=int(weight_lbs) * 0.45
+print(kilogram)
+
+majwega Jackson
